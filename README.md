@@ -4,6 +4,10 @@
 
 ### Public Portfolio
 
+[Ohio Association of Consulting Foresters](https://ohioacf.com/) - Built with laravel, simple landing page/website refresh
+
+[OSAF Directory](https://www.osafdirectory.com) - Built with laravel, includes profile management, dues payments, and other features.
+
 [Top Value Vacations](https://www.topvaluevacations.com) - A full Reservation, Booking, and payment system for vacation rental properties
 
 [Casting Trigger](https://www.castingtrigerr.com) - A physical product and website I created to sell it.
