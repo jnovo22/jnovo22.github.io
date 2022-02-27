@@ -8,13 +8,15 @@
 
 [OSAF Directory](https://www.osafdirectory.com) - Built with laravel, includes profile management, dues payments, and other features.
 
+[OSAF Wildlife Directory](https://wildlife.osafdirectory.com) - Similar to above, 
+
+[OSAF TSI/Vendor Directory](https://tsi.osafdirectory.com) - Similar to above, 
+
 [Top Value Vacations](https://www.topvaluevacations.com) - A full Reservation, Booking, and payment system for vacation rental properties
 
 [Casting Trigger](https://www.castingtrigerr.com) - A physical product and website I created to sell it.
 
 [Kuhns Market](https://www.kuhnsmarket.com) - A local grocery store chain.  Includes online ordering for store gift cards.
-
-[Doll Lumber](https://www.dolllumber.com) - Oldest project.  The website looks dated, but it appeals to the demographic and both the client and their site visitors enjoy it.
 
 
 ### Public Github Projects
