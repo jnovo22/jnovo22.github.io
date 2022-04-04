@@ -16,8 +16,6 @@
 
 [Casting Trigger](https://www.castingtrigerr.com) - A physical product and website I created to sell it.
 
-[Kuhns Market](https://www.kuhnsmarket.com) - A local grocery store chain.  Includes online ordering for store gift cards.
-
 
 ### Public Github Projects
 
