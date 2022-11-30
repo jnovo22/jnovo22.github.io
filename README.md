@@ -4,15 +4,17 @@
 
 ### Public Portfolio
 
+[When Should I Thaw My Turkey](https://whenshouldithawmyturkey.com/) - I wanted a quick reference, without googling or math, to tell me when I should thaw my turkey.
+
 [Ohio Association of Consulting Foresters](https://ohioacf.com/) - Built with laravel, simple landing page/website refresh
 
 [OSAF Directory](https://www.osafdirectory.com) - Built with laravel, includes profile management, dues payments, and other features.
 
-[OSAF Wildlife Directory](https://wildlife.osafdirectory.com) - Similar to above, 
+[OSAF Wildlife Directory](https://wildlife.osafdirectory.com) - Similar to above 
 
-[OSAF TSI/Vendor Directory](https://tsi.osafdirectory.com) - Similar to above, 
+[OSAF TSI/Vendor Directory](https://tsi.osafdirectory.com) - Similar to above 
 
-[Top Value Vacations](https://www.topvaluevacations.com) - A full Reservation, Booking, and payment system for vacation rental properties
+[Top Value Vacations](https://www.topvaluevacations.com) - (On Hiatus) A full Reservation, Booking, and payment system for vacation rental properties
 
 [Casting Trigger](https://www.castingtrigerr.com) - A physical product and website I created to sell it.
 
